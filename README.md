@@ -1,9 +1,9 @@
 ## Summary
 Performed sales forecasting in Python for an Ecuadorian grocery store chain using multi-step time series data.
-Leveraged beautiful soup and pandas to accomplish feature engineering by web scraping geographic data.
-Utilized bottom-up, univariate aggregation, multivariate aggregation, and static supervised learning techniques.
-Implemented Feed Forward Neural Networks, LSTM, GRU and SVM using PyTorch and scikit-learn to predict sales.
-Static supervised learning approach gave us the best predictions.
+<br>Leveraged beautiful soup and pandas to accomplish feature engineering by web scraping geographic data.
+<br>Utilized bottom-up, univariate aggregation, multivariate aggregation, and static supervised learning techniques.
+<br>Implemented Feed Forward Neural Networks, LSTM, GRU and SVM using PyTorch and scikit-learn to predict sales.
+<br>Static supervised learning approach gave us the best predictions.
 
 ## Problem Statement
 Sales forecasting can play a major role in the success of an organization. Accurate sales forecasts allow organizations to make informed decisions while setting organizational goals, hiring, and budgeting among other profit impacting factors. Accurate predictions are essential for brick and mortar grocery stores as an overestimation of demand can lead to overstocked perishable goods and an underestimation of demand can lead to popular items selling out which can lead to a loss of potential revenue and customer dissatisfaction.
@@ -43,8 +43,8 @@ Finally, all of the experimentation can be done at the original level of granula
 
 ## Notebooks
 Exploratory Data Analysis: CIS731: Exploratory Data Analysis and Data Preparation.ipynb
-Bottom-up Approach: Bottom Up.ipynb
-Single Model Approach: Multivariate Aggregate.ipynb, Univariate Model.ipynb, Recurrent Neural Networks.ipynb
-Support Vector Machines: Support Vector Machines.ipynb
-Static Supervised Learning Approach: Data_Aggregation.ipynb, Combine_Embeddings.ipynb, Final_Model.ipynb, Items_Model.ipynb, Stores_Model.ipynb
+<br>Bottom-up Approach: Bottom Up.ipynb
+<br>Single Model Approach: Multivariate Aggregate.ipynb, Univariate Model.ipynb, Recurrent Neural Networks.ipynb
+<br>Support Vector Machines: Support Vector Machines.ipynb
+<br>Static Supervised Learning Approach: Data_Aggregation.ipynb, Combine_Embeddings.ipynb, Final_Model.ipynb, Items_Model.ipynb, Stores_Model.ipynb
 
